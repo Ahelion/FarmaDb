@@ -1,2 +1,2 @@
 # FarmaDb
-Farmacy db in python
+apotheke
